@@ -10,3 +10,4 @@ Requires-Dist: seaborn
 Requires-Dist: scikit-learn
 Requires-Dist: catboost
 Requires-Dist: xgboost
+Requires-Dist: dill
